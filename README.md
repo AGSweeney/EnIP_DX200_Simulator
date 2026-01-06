@@ -159,6 +159,9 @@ The simulator is compatible with EtherNet/IP Explorer and other CIP diagnostic t
 2. **Browse Classes**: Navigate to the Motoman vendor-specific classes (112-140 decimal)
 3. **Read Attributes**: Use `Get_Attribute_Single` or `Get_Attribute_All` to read data
 
+For visual examples and screenshots, see:
+- [Usage Examples](docs/USAGE_EXAMPLES.md)
+
 For class number conversions, see:
 - [CIP Classes Decimal Reference](docs/CIP_CLASSES_DECIMAL_REFERENCE.md)
 
@@ -189,6 +192,7 @@ DX200Sim/
 - [Pre-Initialized Data Reference](docs/PREINITIALIZED_DATA_REFERENCE.md) - All pre-configured robot data values
 - [PSRAM Enablement Guide](docs/PSRAM_ENABLEMENT.md) - PSRAM configuration and usage
 - [Robot Parameters Analysis](docs/ROBOT_PARAMS_ANALYSIS.md) - Analysis of robot parameter files
+- [Usage Examples](docs/USAGE_EXAMPLES.md) - Visual examples and screenshots of using the simulator
 
 ## Development
 
